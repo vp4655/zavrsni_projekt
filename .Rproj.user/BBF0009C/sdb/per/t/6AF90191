@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1453600633947.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6AF90191",
+    "lastKnownWriteTime" : 2338612189833687632,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "gkbj4bas2d",
+        "caption" : "result.final",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=result.final&cache_key=gkbj4bas2d",
+        "displayedObservations" : 19879,
+        "environment" : "",
+        "object" : "result.final",
+        "totalObservations" : 19879,
+        "variables" : 24
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
